@@ -14,8 +14,8 @@ author: Sezer Bağlan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Blog: "" 
   About Me: "aboutme"
-  Blog: "home"
   Publications: "publications"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
