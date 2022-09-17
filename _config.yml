@@ -15,7 +15,7 @@ author: Sezer Bağlan
 
 navbar-links:
   About Me: "aboutme"
-  Blog: ""
+  Blog: "home"
   Publications: "publications"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
