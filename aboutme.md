@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Selam
-subtitle: Selam is literally 'PEACE'
+title: Selâm
+subtitle: Selâm is literally 'PEACE'
 ---
 
-My name is Sezer Baglan. I'm working as a software engineer in Siemens AG. My roles are SWA and security expert.
+- My name is Sezer Bağlan.
+- I'm working as a software engineer in Siemens AG. My roles are *software architect* and *security expert*.
+- My BSc degree is from ODTÜ EE; MSc degree is from İTÜ TEL.
 
