@@ -7,9 +7,9 @@ tags: [docker, security]
 If one writes a Dockerfile, builds a container image and runs it; the container will run with root privileges by default.
 It is not recommended from security point of view and hence the mitigation tactics will be scope of this post.
 There are three design tactis to prevent running containers with non-root privileges:
-1. *USER* instruction of Docker
-2. *entrypoint.sh* for root privilege requrired actions
-3. Dropping root user *capabilites*
+1. **USER** instruction of Docker
+2. **entrypoint.sh** for root privilege requrired actions
+3. Dropping root **capabilites**
 
 ## 1. USER Instruction of Docker
 Docker's *USER* instruction provides a functionality to run a Docker container with non-root privileges.
