@@ -30,7 +30,7 @@ Please note that this is just an examle Dockerfile and testUser must exist in th
 ## 2. entrypoint.sh for root Privilege Required Actions
 In some cases like changing ownership of a directory, one may need root privileges during container startup.
 Using an entrypoint script is a design tactic where doing root privileged actions in running container is allowed first and privileges are dropped later on.
-Finally the application runs with non-root user privileges with the help of **gosu***.
+Finally the application runs with non-root user privileges with the help of **gosu**.
 
 A note from gosu github repo: "*The core use case for gosu is to step down from root to a non-privileged user during container startup (specifically in the ENTRYPOINT, usually)*".
 
