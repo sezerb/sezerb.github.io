@@ -14,7 +14,8 @@ author: Sezer Bağlan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "/" 
+  Home: "/"
+  Blog List: "blog"
   About Me: "aboutme"
 #  Publications: "publications"
 #  Resources:
